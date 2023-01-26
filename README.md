@@ -1,2 +1,0 @@
-# .github
-Important notes.
